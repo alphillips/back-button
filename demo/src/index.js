@@ -5,7 +5,7 @@ import Component from '../../src'
 
 let Demo = React.createClass({
   render() {
-    return <div>
+    return <div className="uikit-body">
       <h1>back-button Demo</h1>
       <Component/>
     </div>
