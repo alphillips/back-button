@@ -8,6 +8,8 @@ let Demo = React.createClass({
     return <div className="uikit-body">
       <h1>back-button Demo</h1>
       <Component/>
+      <br />
+      <Component label="Previous page"/>
     </div>
   }
 })

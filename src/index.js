@@ -22,7 +22,7 @@ export default function BackButton(props) {
   return (
     <Link className="uikit-direction-link uikit-direction-link--left" style={linkStyle}
       onClick={onClick} href="#">
-      Back
+      {props.label || 'Back'}
     </Link>
   )
 }
