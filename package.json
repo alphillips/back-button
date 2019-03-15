@@ -29,14 +29,10 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
-  "repository": {
-    "type" : "git",
-    "url" : "https://github.com/alphillips/back-button.git"
-  },
+  "repository": "",
   "author": "",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
   "keywords": [
     "react-component"
   ]
